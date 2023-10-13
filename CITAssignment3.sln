@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QuestionA", "QuestionA", "{406724CF-3A25-4E02-AA37-407E11904ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientServer", "ClientServer\ClientServer.csproj", "{3B1EABDD-56E2-4C03-A959-1E4D650EA453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B1EABDD-56E2-4C03-A959-1E4D650EA453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1EABDD-56E2-4C03-A959-1E4D650EA453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1EABDD-56E2-4C03-A959-1E4D650EA453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1EABDD-56E2-4C03-A959-1E4D650EA453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B1EABDD-56E2-4C03-A959-1E4D650EA453} = {406724CF-3A25-4E02-AA37-407E11904ED0}
+	EndGlobalSection
+EndGlobal
